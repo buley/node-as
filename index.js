@@ -1,0 +1,1 @@
+requre('./lib/as.js');
