@@ -1,1 +1,1 @@
-requre('./lib/as.js');
+require('./lib/as.js');
