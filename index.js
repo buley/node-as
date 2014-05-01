@@ -1,1 +1,1 @@
-require('./lib/as.js');
+module.exports = require('./lib/as.js');
