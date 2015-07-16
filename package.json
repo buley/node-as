@@ -1,0 +1,19 @@
+{
+  "name": "node-as",
+  "version": "1.0.0",
+  "description": "Nested Activity Stream objects from shallow JavaScript Objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mcnaughton/node-as.git"
+  },
+  "author": "Taylor Buley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcnaughton/node-as/issues"
+  },
+  "homepage": "https://github.com/mcnaughton/node-as"
+}
